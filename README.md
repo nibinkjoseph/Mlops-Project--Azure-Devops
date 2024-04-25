@@ -34,3 +34,10 @@ Copy all the Key details
          + Client secret
          Description: azure-devops-jan24
          After adding copy the Value and Secret ID
+## Go to Access Control (IAM)
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/5462a949-3f6f-44f4-875f-7f86afe2afb0)
++ Add Role Assignment
++ Select Privileged administrator roles
++ Contributer
++ Select member: azure-devops-jan24
+
