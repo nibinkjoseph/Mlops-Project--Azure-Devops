@@ -1,4 +1,5 @@
 # Mlops-Project-Azure-Devops
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/fc818661-88ee-4dd9-9873-96077ac712e9)
 
 # Step 1: Log into dev.azure.com
          
