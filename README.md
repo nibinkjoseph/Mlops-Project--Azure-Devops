@@ -19,7 +19,18 @@
          Resource Group: azure-devops-jan24
          Static Web App Name: azure-devops-jan24
          Deployment details : Azure Devops
-![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/e02c2571-afe6-4365-a61b-1add3a8f72a0)
          Build Presents : Vue.js
          App location, Api Location no changes, and Output location: Dist
 
+If the connection is not getting created then go back to devops portal and under project setting select Service connections under Pipelines
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/a2d23ed9-9697-4cf2-b250-b991fe069c38)
+
+## Microsoft Entra ID
+Select App Registrations : azure-devops-jan24
+Copy all the Key details
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/9cc88c61-e441-4692-ae2d-28c4ca89bc29)
+
+Select Certificates & secrets
+         + Client secret
+         Description: azure-devops-jan24
+         After adding copy the Value and Secret ID
