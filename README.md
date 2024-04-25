@@ -5,4 +5,4 @@
          Create a project:
          Project Name: azure-devops-jan24
 
-# Step 2:          
+# Step 2: Create a pipeline          
