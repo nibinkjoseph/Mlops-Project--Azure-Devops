@@ -13,3 +13,7 @@
 ![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/15e1e47c-497f-437e-a101-adcd15ec4e21)
 
 # Step 3: Go to portal.azure.com
+
+## Go to App Services
+         Create Static Web App
+         
