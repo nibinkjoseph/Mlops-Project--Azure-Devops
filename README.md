@@ -16,4 +16,10 @@
 
 ## Go to App Services
          Create Static Web App
-         
+         Resource Group: azure-devops-jan24
+         Static Web App Name: azure-devops-jan24
+         Deployment details : Azure Devops
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/e02c2571-afe6-4365-a61b-1add3a8f72a0)
+         Build Presents : Vue.js
+         App location, Api Location no changes, and Output location: Dist
+
