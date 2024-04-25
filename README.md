@@ -41,3 +41,33 @@ Copy all the Key details
 + Contributer
 + Select member: azure-devops-jan24
 
+Go back to azure devops page
+Select project settings
++ Service connections
++ Azure Resource Manager
++ Service Principal Manual
++ Paste subscription id and name
++ Paste client id to service principal id
++ Paste value to service principal key
++ Paste tenant ID
++ Verify it
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/48a63530-4650-4ced-a768-7b8870193bf6)
+Service connection name : devops-azure
+
+## Go to App Services
+         Create Static Web App
+         Resource Group: azure-devops-jan24
+         Static Web App Name: azure-devops-jan24
+         Deployment details : Azure Devops
+         Build Presents : Vue.js
+         App location, Api Location no changes, and Output location: Dist
+It still failed
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/b85f5e71-a3f6-44e2-a755-8698fd718a0e)
+
+
+
+
+
+
+
+
