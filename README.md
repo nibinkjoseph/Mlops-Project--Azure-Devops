@@ -32,5 +32,7 @@ Copy all the Key details
 
 Select Certificates & secrets
          + Client secret
+         
          Description: azure-devops-jan24
+         
          After adding copy the Value and Secret ID
