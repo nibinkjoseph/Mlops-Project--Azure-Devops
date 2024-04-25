@@ -30,9 +30,7 @@ Select App Registrations : azure-devops-jan24
 Copy all the Key details
 ![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/9cc88c61-e441-4692-ae2d-28c4ca89bc29)
 
-Select Certificates & secrets
+## Select Certificates & secrets
          + Client secret
-         
          Description: azure-devops-jan24
-         
          After adding copy the Value and Secret ID
