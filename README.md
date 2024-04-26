@@ -41,6 +41,31 @@ Congrats!
 The Github is connected!
 ![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/2f271289-8b8f-4b70-baad-108e89988f9c)
 
+## Step 5 : Create a folder ( I named as AZURE DEVOPS )
+         Clone all the files from GitHub
+         git clone https://github.com/nibinkjoseph/Azure-CI-CD-static-app.git
+
+
+## Step 6: Go to pipeline in the devops portal
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/46e6bbf5-27ec-42e8-873b-f0edc714034f)
+
+## Step 7: Before doing anything in the pipeline go to Boards as shown below
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/69aec12d-2961-42e1-9e4d-5a9cbfd8e67b)
+
+         Create a task to change v12 to v10 in the readme file.
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/93ed968c-bc48-4fda-9ca0-fc26453881ff)
+
+So we have made the change in the readme file.
+Now open command prompt and commit it.
+git status
+git add .
+git commit -m "fixed AB#3"
+git push origin master
+
+
+
+
+
 
 
 If the connection is not getting created then go back to devops portal and under project setting select Service connections under Pipelines
