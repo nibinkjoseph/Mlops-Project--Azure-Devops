@@ -57,10 +57,13 @@ The Github is connected!
 
 So we have made the change in the readme file.
 Now open command prompt and commit it.
-git status
-git add .
-git commit -m "fixed AB#3"
-git push origin master
+         git status
+         
+         git add .
+         
+         git commit -m "fixed AB#3"
+         
+         git push origin master
 
 
 
