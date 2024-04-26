@@ -1,5 +1,6 @@
 # Mlops-Project-Azure-Devops
-![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/3fcc2eec-c390-4168-be05-fba4567b5cf0)
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/ad618cac-f7db-4bdb-817b-848f0b92b7c7)
+
 
 
 
