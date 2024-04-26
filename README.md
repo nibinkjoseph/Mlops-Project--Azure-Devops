@@ -1,11 +1,12 @@
 # Mlops-Project-Azure-Devops
-![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/d0f98999-8f31-4fd3-be7f-42638bc96fb4)
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/3fcc2eec-c390-4168-be05-fba4567b5cf0)
+
 
 
 # Step 1: Log into dev.azure.com
          
          Create a project:
-         Project Name: azure-devops-jan24
+         Project Name: devops-nibin-jan24
 
 # Step 2: Go to Repos and import a repository
          Link: https://github.com/03sarath/Azure-CI-CD-static-app
@@ -18,9 +19,19 @@
          Create Static Web App
          Resource Group: azure-devops-jan24
          Static Web App Name: azure-devops-jan24
-         Deployment details : Azure Devops
+         Deployment details : Other
          Build Presents : Vue.js
-         App location, Api Location no changes, and Output location: Dist
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/3b59e7f4-e644-48e0-9dcc-bb28ca0031c3)
+
+Click on to Manage Deployment Token
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/2d8d4dbe-90ac-4654-ab82-ed5e8c912c3c)
+
+
+
+
+
+
+
 
 If the connection is not getting created then go back to devops portal and under project setting select Service connections under Pipelines
 ![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/a2d23ed9-9697-4cf2-b250-b991fe069c38)
