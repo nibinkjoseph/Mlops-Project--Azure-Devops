@@ -28,10 +28,18 @@
 Click on to Manage Deployment Token
 ![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/2d8d4dbe-90ac-4654-ab82-ed5e8c912c3c)
 
+## Step 4: Go to the project in the dev.azure.com
+         + Project settings
+         + Under boards select Github connections
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/c069b128-1053-4aaa-af99-8f379a127da4)
 
+Fork the repository if not done (Azure-CI-CD-static-app)
+Now add the Github repositories
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/5f802795-3f55-4574-8fdf-65e9b904eb46)
 
-
-
+Congrats!
+The Github is connected!
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/2f271289-8b8f-4b70-baad-108e89988f9c)
 
 
 
