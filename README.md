@@ -80,6 +80,11 @@ It will build and deploy the app to the staging environment
 
 
 
+DONE TILL HERE!!!!!!
+
+
+
+
 If the connection is not getting created then go back to devops portal and under project setting select Service connections under Pipelines
 ![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/a2d23ed9-9697-4cf2-b250-b991fe069c38)
 
