@@ -65,6 +65,10 @@ Now open command prompt and commit it.
          
          git push origin master
 
+## Step 8: Go to Pipeline and create one.
+
+         This is the YAML Pipeline Structure
+         ![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/0163b467-5c1c-43cc-aa1f-3fe0633d1d86)
 
 
 
