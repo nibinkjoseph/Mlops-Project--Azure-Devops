@@ -75,7 +75,7 @@ It will build and deploy the app to the staging environment
 
 
 
-
+## Step 9: Go to Pipeline and connect to Github
 
 DONE TILL HERE!!!!!!
 
