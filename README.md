@@ -102,6 +102,28 @@ Click Run
 
 
 
+Free Paralelissm is not updated!! so should restart the project once thats done!!!
+
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
 
 
 
