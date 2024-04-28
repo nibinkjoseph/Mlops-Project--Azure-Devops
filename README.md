@@ -76,15 +76,33 @@ It will build and deploy the app to the staging environment
 
 
 ## Step 9: Go to Pipeline and connect to Github
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/6d0910a4-4c0a-478a-96d1-ab5758d8dbfb)
 
-DONE TILL HERE!!!!!!
+         Select Existing Azure Pipelines YAML file
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/b5aac5c6-2a4c-478c-8e93-456cbd42f7ea)
+
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/06a12f0a-dc5d-4ae9-b71a-0a0f1edca972)
+
+After clicking continue we will reach the page where we see variable at the right side. Select new variable
+ 
+Name : deployment_token
+
+Value: The value is the manage deployment token from the azure portal
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/a9022d1c-35a6-42fd-986b-4bc21190ba06)
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/28c54dee-3cc1-435f-bd05-cc1462f04bea)
+
+
+So now the Azure Devops portal have a configuration to access the Static web app
+
+Click Run
+
+![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/8edf26f0-c009-4d95-875b-73f6c3c5aa67)
 
 
 
 
 
-
-
+==================================================================================
 
 If the connection is not getting created then go back to devops portal and under project setting select Service connections under Pipelines
 ![image](https://github.com/nibinkjoseph/Mlops-Project-2-Azure-Devops/assets/63180074/a2d23ed9-9697-4cf2-b250-b991fe069c38)
